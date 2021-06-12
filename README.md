@@ -13,7 +13,7 @@
 - 📄 Know about my experiences check out my [![Generic badge](https://img.shields.io/badge/RESUME-1abc9c.svg)](https://github.com/A-jha383/A-jha383.github.io/blob/master/Resume.pdf)
 
 
-
+<hr>
 
 ### Programming Languages :
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="60"/> </a> 
@@ -58,6 +58,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="60"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="60"/> </a>
 
+<hr>
 
 ### Connect with me:
 <p align="left">
@@ -69,7 +70,8 @@
 <a href="https://www.leetcode.com/jhaa27603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa27603" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushj383" height="30" width="40" /></a>
 </p>
+ <hr>
  
  ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jha383&count_private=true&theme=synthwave&hide=issues)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
- 
+ <hr>
