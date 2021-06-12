@@ -41,18 +41,25 @@
 
 
 ### Backend as a Service(BaaS) :
-[comment]: <> (<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="90" height="60"/> </a>)
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="90" height="60"/> </a>
  
 ### Framework :
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="90" height="60"/> </a>
-### System :
+### System (OS) :
 <a href="https://www.kali.org/" target="_blank"> <img src="https://i.stack.imgur.com/Gns38.png" alt="Kali" width="90" height="60"/> </a>
-
-<a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="90" height="60"/> </a>
-<a href="https://remnux.org/" target="_blank"> <img src="https://remnux.org/img/remnux-logo.png" alt="Remnux" width="90" height="60"/> </a>
-<a href="https://www.metasploit.com/" target="_blank"> <img src="https://g6k7x4j6.stackpathcdn.com/wp-content/uploads/2017/01/metasploit-and-metasploitable.1280x600.jpg" alt="Metasploit" width="90" height="60"/> </a>
+  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="90" height="60"/> </a>
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo-vector.svg" alt="Kali" width="90" height="60"/> </a>
+    <a href="https://remnux.org/" target="_blank"> <img src="https://remnux.org/img/remnux-logo.png" alt="Remnux" width="90" height="60"/> </a>
+      <a href="https://www.metasploit.com/" target="_blank"> <img src="https://g6k7x4j6.stackpathcdn.com/wp-content/uploads/2017/01/metasploit-and-metasploitable.1280x600.jpg" alt="Metasploit" width="90" height="60"/> </a>
     
-    <h3 align="left">Connect with me:</h3>
+### Other :
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="90" height="60"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="60"/> </a>
+  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="60"/> </a>
+
+
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/@ayushjh51366862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushjh51366862" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-jha-87b976130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-87b976130" height="30" width="40" /></a>
@@ -63,11 +70,3 @@
 <a href="https://auth.geeksforgeeks.org/user/ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushj383" height="30" width="40" /></a>
 </p>
     
-    
-    
-
-### Other :
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="90" height="60"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="60"/> </a>
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="60"/> </a>
