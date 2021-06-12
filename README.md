@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Waste Food Management Project**
 
-- 👨‍💻 All of my projects are available at [https://a-jha383.github.io/](https://a-jha383.github.io/)
+- 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://a-jha383.github.io/)
 
 - 📫 How to reach me **official.ayushjha@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/A-jha383/A-jha383.github.io/blob/master/Resume.pdf](https://github.com/A-jha383/A-jha383.github.io/blob/master/Resume.pdf)
+- 📄 Know about my experiences check out my [![Generic badge](https://img.shields.io/badge/RESUME-1abc9c.svg)](https://github.com/A-jha383/A-jha383.github.io/blob/master/Resume.pdf)
 
 
 
@@ -28,7 +28,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="60"/> </a> 
      <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="90" height="60"/> </a>
      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="90" height="60"/> </a> 
-<a href="https://lesscss.org/" target="_blank"> <img src="http://www.drupal-studio.com/startup-site/images/icon-less.svg" alt="less" width="90" height="60"/> </a> </p>
+
   
 ### Backend Development :
 
@@ -53,7 +53,7 @@
       <a href="https://www.metasploit.com/" target="_blank"> <img src="https://g6k7x4j6.stackpathcdn.com/wp-content/uploads/2017/01/metasploit-and-metasploitable.1280x600.jpg" alt="Metasploit" width="90" height="60"/> </a>
     
 ### Other :
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
+
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="90" height="60"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="60"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="60"/> </a>
