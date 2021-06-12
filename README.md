@@ -71,5 +71,5 @@
 </p>
  
  ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jha383&count_private=true&theme=synthwave&hide=issues)
- &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
  
