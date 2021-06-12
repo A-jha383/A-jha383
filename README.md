@@ -1,5 +1,5 @@
 
-![AJ1 Effect](https://user-images.githubusercontent.com/72190187/121767289-f1e69f00-cb74-11eb-8584-00b062ca25f8.gif)
+![AJ1 Effect](https://user-images.githubusercontent.com/72190187/121767289-f1e69f00-cb74-11eb-8584-00b062ca25f8.gif) 
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 
 <h3 align="center">I love to learn new and exciting things and try to apply and change. I love challenges and try to find out a way amidst of dire situations. Seeking an learning opportunity where I can efficiently contribute my skills and talent which allows me to grow and sharpen my skills.</h3>
@@ -47,7 +47,7 @@
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="90" height="60"/> </a>
 ### System (OS) :
 <a href="https://www.kali.org/" target="_blank"> <img src="https://i.stack.imgur.com/Gns38.png" alt="Kali" width="90" height="60"/> </a>
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="90" height="60"/> </a>
+  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="60" height="60"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo-vector.svg" alt="Kali" width="90" height="60"/> </a>
     <a href="https://remnux.org/" target="_blank"> <img src="https://remnux.org/img/remnux-logo.png" alt="Remnux" width="90" height="60"/> </a>
       <a href="https://www.metasploit.com/" target="_blank"> <img src="https://g6k7x4j6.stackpathcdn.com/wp-content/uploads/2017/01/metasploit-and-metasploitable.1280x600.jpg" alt="Metasploit" width="90" height="60"/> </a>
@@ -69,4 +69,7 @@
 <a href="https://www.leetcode.com/jhaa27603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa27603" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushj383" height="30" width="40" /></a>
 </p>
-    
+ 
+ ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jha383&count_private=true&theme=synthwave&hide=issues)
+ &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
+ 
