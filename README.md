@@ -1,16 +1,7 @@
 
 ![AJ1 Effect](https://user-images.githubusercontent.com/72190187/121767289-f1e69f00-cb74-11eb-8584-00b062ca25f8.gif)
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ayushjh51366862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushjh51366862" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-jha-87b976130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-87b976130" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ayush-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayush-jha" height="30" width="40" /></a>
-<a href="https://medium.com/@ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushj383" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushj383" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jhaa27603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa27603" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushj383" height="30" width="40" /></a>
-</p>
+
 <h3 align="center">I love to learn new and exciting things and try to apply and change. I love challenges and try to find out a way amidst of dire situations. Seeking an learning opportunity where I can efficiently contribute my skills and talent which allows me to grow and sharpen my skills.</h3>
 
 - 🔭 I’m currently working on **Waste Food Management Project**
@@ -59,6 +50,20 @@
 ### Framework :
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="90" height="60"/> </a>
     <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="90" height="60"/> </a>
+    
+    <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@ayushjh51366862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushjh51366862" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-jha-87b976130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-87b976130" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ayush-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayush-jha" height="30" width="40" /></a>
+<a href="https://medium.com/@ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushj383" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushj383" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jhaa27603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa27603" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushj383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushj383" height="30" width="40" /></a>
+</p>
+    
+    
+    
 
 ### Other :
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
