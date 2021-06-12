@@ -1,3 +1,5 @@
+
+![AJ1 Effect](https://user-images.githubusercontent.com/72190187/121767289-f1e69f00-cb74-11eb-8584-00b062ca25f8.gif)
 ### Hi there 👋
 
 <!--
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/A-jha383@/github-readme-stats)
