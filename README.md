@@ -15,6 +15,11 @@
 
 <hr>
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jha383&count_private=true&theme=synthwave&hide=issues)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
+ <hr>
+
+
 ### Programming Languages :
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="60"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="90" height="60"/> </a> 
@@ -74,6 +79,4 @@
 </p>
  <hr>
  
- ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jha383&count_private=true&theme=synthwave&hide=issues)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jha383&layout=compact)](https://github.com/a-jha383/github-readme-stats)
- <hr>
+ 
