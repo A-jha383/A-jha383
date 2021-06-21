@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://a-jha383.github.io/)
 
 - 📫 How to reach me **official.ayushjha@gmail.com**
+- 📫 To check out my articles [![Generic badge](https://img.shields.io/badge/HERE-1abc9c.svg)](https://ayushj383.medium.com/the-15-most-common-mistakes-web-developers-make-5b743524d223)
 
 - 📄 Know about my experiences check out my [![Generic badge](https://img.shields.io/badge/RESUME-1abc9c.svg)](https://github.com/A-jha383/A-jha383.github.io/blob/master/Resume.pdf)
 
