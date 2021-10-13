@@ -64,7 +64,7 @@
 ### Other :
 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="90" height="60"/> </a>
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank"> <img src="https://icon-library.net//images/autocad-icon/autocad-icon-24.jpg" alt="AutoCAD" width="90" height="60"/> </a>
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/autodesk-autocad.png" alt="AutoCAD" width="90" height="60"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="60"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="60"/> </a>
 
