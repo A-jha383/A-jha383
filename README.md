@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Waste Food Management Project**
 
-- 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://a-jha383.github.io/)
+- 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://ayush-jha/)
 
 - 📫 How to reach me **official.ayushjha@gmail.com**
 - 📫 To check out my articles [![Generic badge](https://img.shields.io/badge/HERE-1abc9c.svg)](https://ayushj383.medium.com/the-15-most-common-mistakes-web-developers-make-5b743524d223)
