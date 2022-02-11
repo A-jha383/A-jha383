@@ -6,7 +6,7 @@
 </h3>
 <h3 align="center">My interest includes cybersecurity, building user-friendly websites and java based Android Applications.</h3>
 
-- 🔭 I’m currently working on **Waste Food Management Project**
+- 🔭 I’m currently working on **3D Portfolio Game**
 
 - 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://ayush-jha/)
 
