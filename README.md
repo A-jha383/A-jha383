@@ -29,6 +29,7 @@
      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="60"/> </a>
        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="60"/> </a>
        <a href="" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="90" height="60"/> </a>
+       <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Bash" width="90" height="60"/> </a>
        
 ### Frontend Development :
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="90" height="60"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="60"/> </a>
