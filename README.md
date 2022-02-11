@@ -29,7 +29,7 @@
      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="60"/> </a>
        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="60"/> </a>
        <a href="" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="90" height="60"/> </a>
-       <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Bash" width="90" height="60"/> </a>
+       <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="90" height="60"/> </a>
        
 ### Frontend Development :
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="90" height="60"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="60"/> </a>
@@ -37,6 +37,8 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="60"/> </a> 
      <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="90" height="60"/> </a>
      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="90" height="60"/> </a> 
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png" alt="React" width="90" height="60"/> </a> 
+       <a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="ThreeJS" width="90" height="60"/> </a> 
 
   
 ### Backend Development :
