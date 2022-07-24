@@ -2,7 +2,7 @@
 ![AJ1 Effect](https://user-images.githubusercontent.com/72190187/121767289-f1e69f00-cb74-11eb-8584-00b062ca25f8.gif) 
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 
-<h3 align="center">I am 3rd year undergrad Computer Science and Engineering(CSE) student. I like to learn new and exciting things and try to apply and change. I love challenges and try to find out a way amidst of dire situations. Seeking an learning opportunity where I can efficiently contribute my skills and talent which allows me to grow and sharpen my skills.
+<h3 align="center">I am Final year undergrad Computer Science and Engineering(CSE) student. I like to learn new and exciting things and try to apply and change. I love challenges and try to find out a way amidst of dire situations. Seeking an learning opportunity where I can efficiently contribute my skills and talent which allows me to grow and sharpen my skills.
 </h3>
 <h3 align="center">My interest includes cybersecurity, building user-friendly websites and java based Android Applications.</h3>
 
